@@ -11,12 +11,18 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon app.js" 
+    "dev": "nodemon app.js"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliawadac/hopihari.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juliawadac/hopihari/issues"
+  },
+  "homepage": "https://github.com/juliawadac/hopihari#readme",
   "description": ""
 }
-
